@@ -1,6 +1,7 @@
 # Code-Refactor-LJ
 A Coding Bootcamp challenge to refactor a starter code enabling accessibility and structured HTML elements.
-![alt text](file:///C:/Users/kathr/Bootcamp/UTA-VIRT-FSF-FT-06-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html)
+![Screenshot LJ](https://user-images.githubusercontent.com/107494937/177656724-49b65a2e-744e-4cdb-8f41-1fe250f1c1ae.png)
+
 ## The Challenge
 To refactor an existing webpage in order to make it accessible, so it is optimized for search engines.
 ![](./Assets/01-html-css-git-homework-demo.png)
